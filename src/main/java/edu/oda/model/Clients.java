@@ -3,7 +3,7 @@ package edu.oda.model;
 import java.time.LocalDateTime;
 import java.util.Objects;
 
-public class Clients {
+public class  Clients {
     private String clientId;
     private String name;
     private String typeOfProperty;
